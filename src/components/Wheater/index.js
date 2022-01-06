@@ -19,7 +19,7 @@ const Wheater = () => {
         },
         headers: {
           authorization:
-            "apikey apikey 75uMVOgiZoWRo8JylnOXEy:2qTJNHl9zBPhtQ5DNL3zzJ",
+            "apikey YOUR_API_KEY",
           "content-type": "application/json",
         },
       })
