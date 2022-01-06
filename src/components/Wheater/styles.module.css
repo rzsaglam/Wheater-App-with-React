@@ -1,0 +1,7 @@
+.Card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #212121;
+}
